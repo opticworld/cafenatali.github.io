@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Отзывы</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.cafezabava.net"/>
+	<id>https://www.cafezabava.net/reviews.feed</id>
+	<updated>2020-01-28T19:47:59+02:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.cafezabava.net/reviews.feed?type=atom"/>
+	<entry>
+		<title>Рекомендуем это кафе</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2015-11-04T23:34:51+02:00</published>
+		<updated>2015-11-04T23:34:51+02:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Наталья</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Сегодня были у вас , очень уютное заведение. Кухня вкусная, обслуживание на высшем уровне. Рекомендуем.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Сегодня были у вас , очень уютное заведение. Кухня вкусная, обслуживание на высшем уровне. Рекомендуем.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Праздновали 4 года назад свадьбу</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2015-10-10T01:27:46+03:00</published>
+		<updated>2015-10-10T01:27:46+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Ольга</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Всё было шикарно, кухня, обслуживание...Очень довольны вот хотим снова обратится )))&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Всё было шикарно, кухня, обслуживание...Очень довольны вот хотим снова обратится )))&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Советуем всем</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2013-03-07T01:25:42+02:00</published>
+		<updated>2013-03-07T01:25:42+02:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Vit</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Проводили семейное торжество, все было на высшем уровне: оформление, кухня, обслуживание, развлекательная программа. Мы остались очень довольны. Теперь все праздники будем проводить только тут и всем советуем.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Проводили семейное торжество, все было на высшем уровне: оформление, кухня, обслуживание, развлекательная программа. Мы остались очень довольны. Теперь все праздники будем проводить только тут и всем советуем.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Обслуживание</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2012-12-04T01:23:54+02:00</published>
+		<updated>2012-12-04T01:23:54+02:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Федя</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Да, есть где футбол посмотреть !!!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Да, есть где футбол посмотреть !!!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Хорошее впечатление</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2011-08-29T01:09:53+03:00</published>
+		<updated>2011-08-29T01:09:53+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Luck_sky</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ездили в гости к друзьям на поселок. Вечером собирались уезжать, не могли расстаться, зашли в это кафе рядом с домом. Не пожалели. Думали посидеть минут 20, так и остались до середины ночи. вкусная кухня, приятное обслуживание, а шашлычок - пальчики оближешь... Короче, уехали только на следующий день.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ездили в гости к друзьям на поселок. Вечером собирались уезжать, не могли расстаться, зашли в это кафе рядом с домом. Не пожалели. Думали посидеть минут 20, так и остались до середины ночи. вкусная кухня, приятное обслуживание, а шашлычок - пальчики оближешь... Короче, уехали только на следующий день.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Цены и кухня</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2011-07-21T01:20:56+03:00</published>
+		<updated>2011-07-21T01:20:56+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Витя</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Хорoшая кафешка с нормальными ценами и кухней рядом с нашим домом. Рекомендую!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Хорoшая кафешка с нормальными ценами и кухней рядом с нашим домом. Рекомендую!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Шашлык</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2011-07-09T01:22:30+03:00</published>
+		<updated>2011-07-09T01:22:30+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Кот</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Очень нормальный такой шашлык, та и вобще можно недорого и вкусно отдохнуть. Хорошая контора.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Очень нормальный такой шашлык, та и вобще можно недорого и вкусно отдохнуть. Хорошая контора.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Обслуживание</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2011-06-26T01:16:26+03:00</published>
+		<updated>2011-06-26T01:16:26+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Евгений</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Уютное кафе, очень приятная атмосфера и хорошее обслуживание.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Уютное кафе, очень приятная атмосфера и хорошее обслуживание.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+	<entry>
+		<title>Салаты</title>
+		<link rel="alternate" type="text/html" href="https://www.cafezabava.net/reviews.html?cid=92"/>
+		<published>2011-06-20T01:18:30+03:00</published>
+		<updated>2011-06-20T01:18:30+03:00</updated>
+		<id>https://www.cafezabava.net/reviews.html?cid=92</id>
+		<author>
+			<name>Анастасия</name>
+			<email>admin@cafezabava.net</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Очень вкусные салаты, красиво оформлены. Хорошее обслуживание. Спасибо.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Очень вкусные салаты, красиво оформлены. Хорошее обслуживание. Спасибо.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы посетителей" />
+	</entry>
+</feed>
